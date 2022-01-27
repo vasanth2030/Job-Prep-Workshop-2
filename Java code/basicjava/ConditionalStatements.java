@@ -69,6 +69,12 @@ public class ConditionalStatements {
 			System.out.println("Odd number.");
 	}
 	
+	public static int sum(int a,int b) {
+
+		return a+b;
+		
+	}
+	
 
 }
 
